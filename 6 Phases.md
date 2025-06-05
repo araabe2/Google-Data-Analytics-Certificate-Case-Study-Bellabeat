@@ -2,7 +2,15 @@
 **Purpose:** Understand the question being asked \
 **Deliverable:** A clear summary of the business task
 
+### Guiding questions:
+What is the problem you are trying to solve?
+ - Understand user trends within the field of smart devices to provide advice towards further marketting efforts for one or more Bellabeat products.
+ - Select **[]** to understand how users use [].  In so doing, we can tailor our marketting strategy to better match with our desired consumers needs and to reach out to unreached consumers who would partake in the product.
 
+How can your insights drive business decisions?
+ - Under-utilized or unreached markets could require different advertisement techniques to reach them.
+ - Product development focus could be shifted away from the app towards a trendier topic within the market. (This would be outside the scope of this business task.)
+ - Understanding user habits can lead to advertisement content being shifted to more closely relate to usage and prevent the company from feeling out-of-touch, maintaining public image.
 
 
 ## PREPARE
