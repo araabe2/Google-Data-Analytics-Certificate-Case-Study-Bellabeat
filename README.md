@@ -1,10 +1,10 @@
 # Google-Data-Analytics-Certificate-Case-Study-Bellabeat
-The main purpose of this project was to explore data analysis in the context of R.
+The main purpose of this project was to explore data analysis in the context of R.  To do so, a contrived context and situation provided by Google in their Data Analytics Certificate Coursera class was explored to provide motivation for this exploration.
 
 
 ## Project Context 
 #### (Paraphrased/taken from the Google Coursera Bellabeat case study structured guide)
-Bellabeat, a contrived company with interests in providing smart female health products in similar veins to health trackers like FitBit, is looking to gain insights into the use of its products to guide marketing strategies. 
+Bellabeat, a company with interests in providing smart female health products in similar veins to health trackers like FitBit, is looking to gain insights into the use of its products to guide marketing strategies. 
 
 Currently, the company primarily focuses their marketing strategies on digital media: active Facebook and Instagram pages, a consistent focus on Twitter/X community interaction, and Youtube and Google Display Network advertisements.
 
