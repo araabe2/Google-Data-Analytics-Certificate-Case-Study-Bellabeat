@@ -9,7 +9,7 @@ What is the problem you are trying to solve?
 
 How can your insights drive business decisions?
  - Under-utilized or unreached markets could require different advertisement techniques to reach them.
- - Product development focus could be shifted away from the app towards a trendier topic within the market. (This would be outside the scope of this business task.)
+ - Product development focus could be shifted away from existing products towards a trendier topic within the market, or inform development of new products. (This would be outside the scope of this business task.)
  - Understanding user habits can lead to advertisement content being shifted to more closely relate to usage and prevent the company from feeling out-of-touch, maintaining public image.
  - Allocation of server resources can be altered to provide a cleaner user experience at times of peak usage.
 
