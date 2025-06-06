@@ -5,7 +5,7 @@
 ### Guiding questions:
 What is the problem you are trying to solve?
  - Understand user trends within the field of smart devices to provide advice towards further marketting efforts for one or more Bellabeat products.
- - Select **[]** to understand how users use [].  In so doing, we can tailor our marketting strategy to better match with our desired consumers needs and to reach out to unreached consumers who would partake in the product.
+ - Select **[Bellabeat Spring]** to understand how users use [Bellabeat Spring].  In so doing, we can tailor our marketting strategy for this product to better match with our desired consumers needs and to reach out to unreached consumers who would partake in the product.
 
 How can your insights drive business decisions?
  - Under-utilized or unreached markets could require different advertisement techniques to reach them.
