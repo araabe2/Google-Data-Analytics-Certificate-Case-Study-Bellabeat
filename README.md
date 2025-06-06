@@ -1,5 +1,5 @@
 # Google-Data-Analytics-Certificate-Case-Study-Bellabeat
-The main purpose of this project was to explore data analysis in the context of R.  To do so, a contrived context and situation **provided by Google in their Data Analytics Certificate Coursera course** was explored to provide motivation for this exploration.
+The main purpose of this project was to explore data analysis in the context of R.  To do so, a contrived context and situation based on the real-world company Bellabeat, was explored to provide motivation for this exploration. **The context and situation were provided  provided by Google in their Data Analytics Certificate Coursera course.**
 
 Additionally, the exploration will be structured using the structure provided by Google in the course:  
 **- Ask - Prepare - Process - Analyze - Share - Act -**
