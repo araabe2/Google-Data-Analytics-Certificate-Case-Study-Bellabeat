@@ -29,8 +29,13 @@ Suggested market trends within the hydration bottle market: https://www.marketre
 Wearablepayment methods smart device user responses: https://figshare.com/articles/dataset/Data_Sheet_1_Exploring_the_smart_wearable_payment_device_adoption_intention_Using_the_symmetrical_and_asymmetrical_analysis_methods_CSV/20963635/1?file=37250668
 Exercise hours (only has examples of data, not the data itself):https://pmc.ncbi.nlm.nih.gov/articles/PMC10192159/
 Exercise trends in group of 545 acquaintances:https://www.kaggle.com/datasets/nithilaa/fitness-analysis
-Age-based advertisement platform consumption (Could influence where we show ads): https://www.statista.com/statistics/1545610/advertising-media-try-new-product-by-age-usa/
-                                                                                  
+Age-based advertisement platform consumption (Could influence where we show ads): 
+                                     - https://www.statista.com/statistics/1545610/advertising-media-try-new-product-by-age-usa/
+                                     - 
+Top Influencers (Streamers/youtubers): 
+                                     - https://hypeauditor.com/top-youtube-fitness/
+                                     - https://www.influencer-hero.com/top-influencers/top-120-physical-fitness-workout-influencers-in-the-us
+                                     - https://www.twitchmetrics.net/channels/viewership?game=Fitness+%26+Health
 Diverse user exercise habits, health, age, gender, etc (for a specific Finnish town): https://datacatalogue.cessda.eu/detail?q=a3aea11ff1c80ebbf02c58f6032beb6ef71607ed4d011f21c0eee4c7c8de59af
 
 ## PROCESS
