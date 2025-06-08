@@ -16,8 +16,9 @@ How can your insights drive business decisions?
  - Influences popular with the target demographic can be sponsored to raise awareness of the product and its benefits.
 
 
-Business task:
- - 
+### Business task:
+ - Using data gathered from non-Bellabeat devices, discover trends and insights to inform Bellabeat marketting strategies.
+ - Apply high-level trends and insights to a specific product, Bellabeat Spring, to provide specific suggestions for marketting efforts.
 
 
 ## PREPARE
