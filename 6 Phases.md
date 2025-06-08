@@ -4,8 +4,8 @@
 
 ### Guiding questions:
 What is the problem you are trying to solve?
- - Understand user trends within the field of smart devices to provide advice towards further marketting efforts for one or more Bellabeat products.
- - Select **[Bellabeat Spring]**.  How can current trends in smart device usage inform our business strategy for **[Bellabeat Spring]**?  In so discovering, we can tailor our marketting strategy for this product to better match with our desired consumers needs and to reach out to unreached consumers who would partake in the product.
+ - Understand user trends within the field of smart devices to provide advice towards further marketing efforts for one or more Bellabeat products.
+ - Select **[Bellabeat Spring]**.  How can current trends in smart device usage inform our business strategy for **[Bellabeat Spring]**?  In so discovering, we can tailor our marketing strategy for this product to better match with our desired consumers needs and to reach out to unreached consumers who would partake in the product.
 
 How can your insights drive business decisions?
  - Under-utilized or unreached markets could require different advertisement techniques to reach them.
@@ -17,8 +17,8 @@ How can your insights drive business decisions?
 
 
 ### Business task:
- - Using data gathered from non-Bellabeat devices, discover trends and insights to inform Bellabeat marketting strategies.
- - Apply high-level trends and insights to a specific product, Bellabeat Spring, to provide specific suggestions for marketting efforts.
+ - Using data gathered from non-Bellabeat devices, discover trends and insights to inform Bellabeat marketing strategies.
+ - Apply high-level trends and insights to a specific product, Bellabeat Spring, to provide specific suggestions for marketing efforts.
 
 
 ## PREPARE
