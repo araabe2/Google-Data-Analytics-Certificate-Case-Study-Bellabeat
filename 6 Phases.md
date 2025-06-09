@@ -32,7 +32,10 @@ Exercise hours (only has examples of data, not the data itself):https://pmc.ncbi
 Exercise trends in group of 545 acquaintances:https://www.kaggle.com/datasets/nithilaa/fitness-analysis
 Age-based advertisement platform consumption (Could influence where we show ads): 
                                      - https://www.statista.com/statistics/1545610/advertising-media-try-new-product-by-age-usa/
-                                     - 
+                                     - (Ad click prediction) https://www.kaggle.com/datasets/marius2303/ad-click-prediction-dataset/data
+                                     - (Ad click prediction larger and more comprehensive, but less well-defined)[Might be simulated] https://data.mendeley.com/datasets/wrvjmdtjd9/1
+                                     - (Ad click prediction, might be simulated) https://www.kaggle.com/datasets/ziya07/advertising-campaign-dataset
+                                     - (customer purchase patterns) https://www.kaggle.com/datasets/salahuddinahmedshuvo/ecommerce-consumer-behavior-analysis-data
 Top Influencers (Streamers/youtubers): 
                                      - https://hypeauditor.com/top-youtube-fitness/
                                      - https://www.influencer-hero.com/top-influencers/top-120-physical-fitness-workout-influencers-in-the-us
