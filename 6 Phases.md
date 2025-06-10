@@ -75,31 +75,12 @@ Dataset: https://www.kaggle.com/datasets/salahuddinahmedshuvo/ecommerce-consumer
   - 
 - Licensing: CC 4.0: International
 
-Dataset: 
-- Description:
-- Purpose:
-- Age of data:
-- Data storage:
-- Potential issues with the data:
-  - x
-- Licensing: 
-
-Dataset: 
-- Description:
-- Purpose:
-- Age of data:
-- Data storage:
-- Potential issues with the data:
-  - 
-- Licensing: 
-
+Other possible resources:
 Suggested market trends within the hydration bottle market: https://www.marketresearchforecast.com/reports/hydration-bottle-market-7431#summary
 Exercise hours (only has examples of data, not the data itself):https://pmc.ncbi.nlm.nih.gov/articles/PMC10192159/
-
-
 Age-based advertisement platform consumption (Could influence where we show ads): 
-                                     - (Rip purchase necessary) https://www.statista.com/statistics/1545610/advertising-media-try-new-product-by-age-usa/
-                                     - (Ad click prediction larger and more comprehensive, but less well-defined)[Might be simulated] https://data.mendeley.com/datasets/wrvjmdtjd9/1
+                                     - (Requires purchase/sign up) https://www.statista.com/statistics/1545610/advertising-media-try-new-product-by-age-usa/
+                                     - (Ad click prediction larger and more comprehensive, but less well-defined; might be simulated) https://data.mendeley.com/datasets/wrvjmdtjd9/1
                                      - (Ad click prediction, might be simulated) https://www.kaggle.com/datasets/ziya07/advertising-campaign-dataset
 Top Influencers (Streamers/youtubers): 
                                      - https://hypeauditor.com/top-youtube-fitness/
@@ -108,7 +89,6 @@ Top Influencers (Streamers/youtubers):
 Diverse user exercise habits, health, age, gender, etc (for a specific Finnish town): https://datacatalogue.cessda.eu/detail?q=a3aea11ff1c80ebbf02c58f6032beb6ef71607ed4d011f21c0eee4c7c8de59af
 Social media usage changes during covid: https://plos.figshare.com/articles/dataset/The_use_of_mobile_apps_for_health-related_purposes_before_and_during_COVID-19_/20511149?file=36715580
 
-ROCCC - Reliable - Original - Comprehensive - Current - Cited
 
 ## PROCESS
 **Purpose:** Clean, store, and transform the data \
