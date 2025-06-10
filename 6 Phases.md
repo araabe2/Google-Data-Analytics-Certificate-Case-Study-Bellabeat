@@ -1,4 +1,4 @@
-## ASK 
+  ## ASK 
 **Purpose:** Understand the question being asked \
 **Deliverable:** A clear summary of the business task
 
@@ -25,22 +25,90 @@ How can your insights drive business decisions?
 **Purpose:** Figure out what information is needed to answer the question, how to get it, and acquire it \
 **Deliverable:** A description of all data sources used
 
-City water hydration per hour from jan 2016 to march 2021: https://zenodo.org/records/11045013  <-includes showers, baths, cooking, lawn watering, washing machines
+Dataset: https://zenodo.org/records/53894#.YMoUpnVKiP9
+- Description: The data describes user activity of 30 users over two separate 1-month periods.
+- Purpose: Discover and describe trends within user activity habits.
+- Age of data: March - May of 2016
+- Data storage: The formatting of this data is one best suited for an **SQL database**.
+- Potential issues with the data:
+  - x
+- Licensing: CC 4.0: International
+
+Dataset: [Link](https://figshare.com/articles/dataset/Data_Sheet_1_Exploring_the_smart_wearable_payment_device_adoption_intention_Using_the_symmetrical_and_asymmetrical_analysis_methods_CSV/20963635/1?file=37250668)
+- Description: User-reported results from a survey of 500 Malaysian respondants discussing their comfort levels with adopting smart technology, along with key descriptors of lifestyle.
+- Purpose: Allow further insights into the portion of the market that we are targetting advertisements towards.
+- Age of data: January - February of 2021
+- Data storage: The data is stored as a **CSV**.
+- Potential issues with the data:
+  - Data columns are not labelled properly.  From [the full research paper](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.863544/full) and table 2, the columns have been matched to their values.
+  - 
+- Licensing: CC 4.0: International
+
+Dataset: https://www.kaggle.com/datasets/nithilaa/fitness-analysis
+- Description: Exercise habits of 545 acquaintances
+- Purpose: Identify trends within different habit striations of exercise partakers to consider where to focus market efforts.
+- Age of data: July of 2019
+- Data storage: The data is stored as a **CSV**.
+- Potential issues with the data:
+  - It is unclear how much consent was given to release these results for commercial usage.
+  - 
+- Licensing: Unknown
+
+Dataset: https://www.kaggle.com/datasets/marius2303/ad-click-prediction-dataset/data
+- Description: The success of advertisement click through of 4000 users, certain user demographics, and categories such as time of day, advertisement placement, and prior browsing history.
+- Purpose: Identify when is best to advertise to users.
+- Age of data: **UPLOADED** September 2024
+- Data storage: The data is stored as a **CSV**.
+- Potential issues with the data:
+  - Significant NULL coverage in key columns
+  - It is unclear what timeframe the data spans
+  - 
+- Licensing: Apache 2.0
+
+Dataset: https://www.kaggle.com/datasets/salahuddinahmedshuvo/ecommerce-consumer-behavior-analysis-data
+- Description: A collection of the purchasing habits of 1000 users and some of the metrics that perhaps can be used to predict those habits.  
+- Purpose: Consider the impact of advertisement on different demographics to inform how worth advertising to them is.
+- Age of data: January - December of 2024
+- Data storage: The data is stored as a **CSV**.
+- Potential issues with the data:
+  - "Time of Purchase" column actually represents date.
+  - 
+- Licensing: CC 4.0: International
+
+Dataset: 
+- Description:
+- Purpose:
+- Age of data:
+- Data storage:
+- Potential issues with the data:
+  - x
+- Licensing: 
+
+Dataset: 
+- Description:
+- Purpose:
+- Age of data:
+- Data storage:
+- Potential issues with the data:
+  - 
+- Licensing: 
+
 Suggested market trends within the hydration bottle market: https://www.marketresearchforecast.com/reports/hydration-bottle-market-7431#summary
-Wearablepayment methods smart device user responses: https://figshare.com/articles/dataset/Data_Sheet_1_Exploring_the_smart_wearable_payment_device_adoption_intention_Using_the_symmetrical_and_asymmetrical_analysis_methods_CSV/20963635/1?file=37250668
 Exercise hours (only has examples of data, not the data itself):https://pmc.ncbi.nlm.nih.gov/articles/PMC10192159/
-Exercise trends in group of 545 acquaintances:https://www.kaggle.com/datasets/nithilaa/fitness-analysis
+
+
 Age-based advertisement platform consumption (Could influence where we show ads): 
-                                     - https://www.statista.com/statistics/1545610/advertising-media-try-new-product-by-age-usa/
-                                     - (Ad click prediction) https://www.kaggle.com/datasets/marius2303/ad-click-prediction-dataset/data
+                                     - (Rip purchase necessary) https://www.statista.com/statistics/1545610/advertising-media-try-new-product-by-age-usa/
                                      - (Ad click prediction larger and more comprehensive, but less well-defined)[Might be simulated] https://data.mendeley.com/datasets/wrvjmdtjd9/1
                                      - (Ad click prediction, might be simulated) https://www.kaggle.com/datasets/ziya07/advertising-campaign-dataset
-                                     - (customer purchase patterns) https://www.kaggle.com/datasets/salahuddinahmedshuvo/ecommerce-consumer-behavior-analysis-data
 Top Influencers (Streamers/youtubers): 
                                      - https://hypeauditor.com/top-youtube-fitness/
                                      - https://www.influencer-hero.com/top-influencers/top-120-physical-fitness-workout-influencers-in-the-us
                                      - https://www.twitchmetrics.net/channels/viewership?game=Fitness+%26+Health
 Diverse user exercise habits, health, age, gender, etc (for a specific Finnish town): https://datacatalogue.cessda.eu/detail?q=a3aea11ff1c80ebbf02c58f6032beb6ef71607ed4d011f21c0eee4c7c8de59af
+Social media usage changes during covid: https://plos.figshare.com/articles/dataset/The_use_of_mobile_apps_for_health-related_purposes_before_and_during_COVID-19_/20511149?file=36715580
+
+ROCCC - Reliable - Original - Comprehensive - Current - Cited
 
 ## PROCESS
 **Purpose:** Clean, store, and transform the data \
