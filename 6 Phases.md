@@ -35,6 +35,7 @@ Dataset: https://zenodo.org/records/53894#.YMoUpnVKiP9
 - Potential issues with the data **(Fitabase Data 3.12.16-4.11.16)**:
   - Distances are measured in kilometers.
   - Several factors have been dropped from the data, including: Calories burned by Basal Metabolism Rate, resting heart rate, and food consumption.
+  - Number of IDs between datasets is not consistent, and ranges from 14 to 35, not the listed 30.
   - dailyActivity_merged: contains dates from 3/25-4/12/2016 instead of 3/12-4/11/2016 for a significant number of users.
   - dailyActivity_merged: User-logged activity seems widely ignored.
   - heartrate_seconds_merged: (5 second intervals) data before 3/31/2016 is less populous than afterwards.
@@ -44,7 +45,8 @@ Dataset: https://zenodo.org/records/53894#.YMoUpnVKiP9
   - weightLogInfo_merged: Fat column is widely null.
 - Potential issues with the data **(Fitabase Data 4.12.16-5.12.16)**:
   - Distances are measured in kilometers.
-  - Several factors have been dropped from the data, including: Calories burned by Basal Metabolism Rate, resting heart rate, and floors climbed.
+  - Several factors have been dropped from the data, including: Calories burned by Basal Metabolism Rate, resting heart rate, and floors climbed. 
+  - Number of IDs between datasets is not consistent, and ranges from 14 to 35, not the listed 30.
   - dailyActivity_merged: User-logged activity seems widely ignored.
   - minuteCaloriesWide_merged: Calories0-Calories59 have the same distribution, meaning minute-level-detail is unreliable.
   - minuteCaloriesnarrow_merged: Because of the above line, data here is suspect, too.
