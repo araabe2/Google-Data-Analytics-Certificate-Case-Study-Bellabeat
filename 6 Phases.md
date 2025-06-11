@@ -110,6 +110,70 @@ Dataset: https://www.kaggle.com/datasets/marius2303/ad-click-prediction-dataset/
 **Purpose:** Clean, store, and transform the data \
 **Deliverable:** Documentation of any cleaning or manipulation of data
 
+### CLEANING STEPS
+FitBit User Dataset
+- x
+
+Adoption of Wearable Smart Payment Technology Survey Dataset
+- x
+
+Exercise Habits of 545 Respondents Survey Dataset
+- Split the multi-valued column "What.barriers..if.any..prevent.you.from.exercising.more.regularly.............Please.select.all.that.apply." into boolean columns:
+  - Time (I don't have enough time) (290 Values)
+  - Motivation (I can't stay motivated) (178 Values)
+  - Energy (I'll become too tired) (112 Values)
+  - None (I exercise regularly with no barriers) (67 Values)
+  - Enjoyment (I don't really enjoy exercising) (59 Values)
+  - Injury (I have an injury) (31 Values) 
+  - I'm too lazy (Any value that contain's "laz", since multiple values reduce to the same term) (10 Values)
+  - Other (Any row that does not have at least one other checked) <- This technically loses 5 (of 8) instances, as they are subsequent to other barrier types. (3 Values)
+- Split the multi-valued column "What.form.s..of.exercise.do.you.currently.participate.in...........................Please.select.all.that.apply." into boolean columns:
+  - None (I don't really exercise) (90 Values)
+  - Walking or jogging (324 Values)
+  - Gym (140 Values)
+  - Team sport (93 Values)
+  - Yoga (81 Values)
+  - Swimming (41 Values)
+  - Weights (Lifting weights) (47 Values)
+  - Zumba (Zumba dance) (33 Values)
+- Reduced columns to needed columns only:
+  - Your.gender
+  - Your.age
+  - How.important.is.exercise.to.you..
+  - How.do.you.describe.your.current.level.of.fitness..
+  - How.often.do.you.exercise.
+  - [Barriers Boolean Columns]
+  - [Exercise Forms Boolean Columns]
+  - Do.you.exercise.___________..
+  - What.time.if.the.day.do.you.prefer.to.exercise.
+  - How.long.do.you.spend.exercising.per.day..
+  - Would.you.say.you.eat.a.healthy.balanced.diet..
+  - How.healthy.do.you.consider.yourself.
+  - Have.you.ever.purchased.a.fitness.equipment.
+- Renamed columns to easier to reference values
+  - gender <- Your.gender
+  - age <- Your.age
+  - personal_exercise_importance <- How.important.is.exercise.to.you..
+  - level_of_fitness <- How.do.you.describe.your.current.level.of.fitness..
+  - exercise_frequency <- How.often.do.you.exercise.
+  - exercise_grouping <- Do.you.exercise.___________..
+  - prefered_exercise_time <- What.time.if.the.day.do.you.prefer.to.exercise.
+  - exercise_per_day <- How.long.do.you.spend.exercising.per.day..
+  - balanced_diet_frequency <- Would.you.say.you.eat.a.healthy.balanced.diet..
+  - perceived_health <- How.healthy.do.you.consider.yourself.
+  - past_fitness_equipment_purchase <- Have.you.ever.purchased.a.fitness.equipment.
+
+Ad Click Success or Failure Dataset
+- Transformed "CLICK" column to factors (0 to "no click", 1 to "click")
+- Dropped all nulls and duplicated values, leaving 440 unique and non-null rows.
+- Dropped all columns except
+  - age
+  - gender
+  - device_type
+  - browsing_history
+  - time_of_day
+  - click
+
 ## ANALYZE
 **Purpose:** Develop conclusions to answer the question being asked \
 **Deliverable:** A summary of your analysis
