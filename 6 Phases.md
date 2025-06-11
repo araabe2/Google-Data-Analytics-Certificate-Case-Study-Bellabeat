@@ -115,7 +115,50 @@ FitBit User Dataset
 - x
 
 Adoption of Wearable Smart Payment Technology Survey Dataset
-- x
+- (ASSUMED DUE TO ARTICLE REFERENCING THE DATA) Female is more populous than Male => Transformed gender integers to factors
+  - 1 to "m"
+  - 2 to "f"
+- (ASSUMED DUE TO ARTICLE REFERENCING THE DATA) Order is maintained => Transformed age factor to age ranges
+  - 1 to "18-25"
+  - 2 to "26-35"
+  - 3 to "36-45"
+  - 4 to "46-55"
+  - 5 to "56-65"
+- (ASSUMED DUE TO ARTICLE REFERENCING THE DATA) Order is maintained => Transformed Average Monthly Income factor to income ranges (in Malaysian Ringgit (RM))
+  - 1 to "0-4000"
+  - 2 to "4001-8000"
+  - 3 to "8001-12000"
+  - 4 to "12001-16000"
+  - 5 to "16001-20000"
+  - 6 to "20000+"
+- (ASSUMED DUE TO ARTICLE REFERENCING THE DATA) Order is maintained => Transformed Marital Status factor to readable format
+  - 1 to "Single"
+  - 2 to "Married"
+  - 3 to "Divorced"
+  - 4 to "Widowed" 
+- (ASSUMED DUE TO ARTICLE REFERENCING THE DATA) Order is maintained => Transformed Education factor to readable format
+  - 1 to "Secondary School Certification"
+  - 2 to "Diploma Certificate"
+  - 3 to "Bachelor's Degree or Equivalent"
+  - 4 to "Master's Degree"
+  - 5 to "PHD"
+- Dropped columns "X.6.Employmentstatus" and "X.3.Ethnicity" due to unresolvable lack of clarity
+- Dropped columns "InformedconsentAsarespondentmyparticipationiscompletelyvoluntary" and "Timestamp" due to lack of usefulness
+- Question SI5 is the only question phrased negatively -> transformed question SI5 to (6-SI5) to invert positive/negative response values
+- Merged questions into groupings based on average score given and theme of questions asked
+  - perceived_usefulness_average <- questions labelled with "PEOU" 1-6
+  - trust_average <- questions labelled with "T" 1-5
+  - lifestyle_fit_average <- questions labelled with "LC" 1-6
+  - resource_availability_average <- questions labelled with "FC" 1-5
+  - social_influence_average <- questions labelled with "SI" 1-4 and new (inverted) SI5 category
+  - intention_average <- questions labelled with "INT" 1-6
+- Added column "total_weighted_average". To compensate for intention_average being out of 7 points where all other questions are out of 5 points, weighted average is used.
+- Renamed columns to more usable names:
+  - Gender <- X.1.Gender
+  - Age <- X.2.Age
+  - Marital_status <- X.4.Maritalstatus
+  - Education <- X.5.Education
+  - Average_montly_income <- X.7.AverageMonthlyIncome
 
 Exercise Habits of 545 Respondents Survey Dataset
 - Split the multi-valued column "What.barriers..if.any..prevent.you.from.exercising.more.regularly.............Please.select.all.that.apply." into boolean columns:
