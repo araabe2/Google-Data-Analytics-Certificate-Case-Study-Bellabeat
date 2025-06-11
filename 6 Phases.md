@@ -116,32 +116,32 @@ FitBit User Dataset
 
 Adoption of Wearable Smart Payment Technology Survey Dataset
 - (ASSUMED DUE TO ARTICLE REFERENCING THE DATA) Female is more populous than Male => Transformed gender integers to factors
-  - 1 to "m"
-  - 2 to "f"
+  - 1 -> "m"
+  - 2 -> "f"
 - (ASSUMED DUE TO ARTICLE REFERENCING THE DATA) Order is maintained => Transformed age factor to age ranges
-  - 1 to "18-25"
-  - 2 to "26-35"
-  - 3 to "36-45"
-  - 4 to "46-55"
-  - 5 to "56-65"
+  - 1 -> "18-25"
+  - 2 -> "26-35"
+  - 3 -> "36-45"
+  - 4 -> "46-55"
+  - 5 -> "56-65"
 - (ASSUMED DUE TO ARTICLE REFERENCING THE DATA) Order is maintained => Transformed Average Monthly Income factor to income ranges (in Malaysian Ringgit (RM))
-  - 1 to "0-4000"
-  - 2 to "4001-8000"
-  - 3 to "8001-12000"
-  - 4 to "12001-16000"
-  - 5 to "16001-20000"
-  - 6 to "20000+"
+  - 1 -> "0-4000"
+  - 2 -> "4001-8000"
+  - 3 -> "8001-12000"
+  - 4 -> "12001-16000"
+  - 5 -> "16001-20000"
+  - 6 -> "20000+"
 - (ASSUMED DUE TO ARTICLE REFERENCING THE DATA) Order is maintained => Transformed Marital Status factor to readable format
-  - 1 to "Single"
-  - 2 to "Married"
-  - 3 to "Divorced"
-  - 4 to "Widowed" 
+  - 1 -> "Single"
+  - 2 -> "Married"
+  - 3 -> "Divorced"
+  - 4 -> "Widowed" 
 - (ASSUMED DUE TO ARTICLE REFERENCING THE DATA) Order is maintained => Transformed Education factor to readable format
-  - 1 to "Secondary School Certification"
-  - 2 to "Diploma Certificate"
-  - 3 to "Bachelor's Degree or Equivalent"
-  - 4 to "Master's Degree"
-  - 5 to "PHD"
+  - 1 -> "Secondary School Certification"
+  - 2 -> "Diploma Certificate"
+  - 3 -> "Bachelor's Degree or Equivalent"
+  - 4 -> "Master's Degree"
+  - 5 -> "PHD"
 - Dropped columns "X.6.Employmentstatus" and "X.3.Ethnicity" due to unresolvable lack of clarity
 - Dropped columns "InformedconsentAsarespondentmyparticipationiscompletelyvoluntary" and "Timestamp" due to lack of usefulness
 - Question SI5 is the only question phrased negatively -> transformed question SI5 to (6-SI5) to invert positive/negative response values
