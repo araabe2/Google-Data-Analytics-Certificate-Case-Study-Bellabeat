@@ -25,6 +25,8 @@ How can your insights drive business decisions?
 **Purpose:** Figure out what information is needed to answer the question, how to get it, and acquire it \
 **Deliverable:** A description of all data sources used
 
+
+### Dataset Descriptions:
 Dataset: https://zenodo.org/records/53894#.YMoUpnVKiP9
 - Description: The data describes user activity of 30 users over two separate 1-month periods.
 - Purpose: Discover and describe trends within user activity habits.
@@ -34,6 +36,11 @@ Dataset: https://zenodo.org/records/53894#.YMoUpnVKiP9
   - x
 - Licensing: CC 4.0: International
 
+
+
+
+
+
 Dataset: [Link](https://figshare.com/articles/dataset/Data_Sheet_1_Exploring_the_smart_wearable_payment_device_adoption_intention_Using_the_symmetrical_and_asymmetrical_analysis_methods_CSV/20963635/1?file=37250668)
 - Description: User-reported results from a survey of 500 Malaysian respondants discussing their comfort levels with adopting smart technology, along with key descriptors of lifestyle.
 - Purpose: Allow further insights into the portion of the market that we are targetting advertisements towards.
@@ -41,8 +48,19 @@ Dataset: [Link](https://figshare.com/articles/dataset/Data_Sheet_1_Exploring_the
 - Data storage: The data is stored as a **CSV**.
 - Potential issues with the data:
   - Data columns are not labelled properly.  From [the full research paper](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.863544/full) and table 2, the columns have been matched to their values.
+  - Column Values do not match supposed measurements
+  - Employment Status does not match the expected factor count given in the article, and must be thrown out.
+  - No explanation for the different values of "Ethnicity" are given.
+  -  
   - 
+  - Questions Starting with "INT" are out of 7 points, rather than out of 5 points like all other questions
+  - Question SI5 is the only question phrased negatively.
 - Licensing: CC 4.0: International
+
+
+
+
+
 
 Dataset: https://www.kaggle.com/datasets/nithilaa/fitness-analysis
 - Description: Exercise habits of 545 acquaintances
@@ -51,8 +69,12 @@ Dataset: https://www.kaggle.com/datasets/nithilaa/fitness-analysis
 - Data storage: The data is stored as a **CSV**.
 - Potential issues with the data:
   - It is unclear how much consent was given to release these results for commercial usage.
+  - Self-reported Data
+  - Multiple columns contain unsorted multi-value answers, meaning careful and manual transformation is necessary
   - 
 - Licensing: Unknown
+
+
 
 Dataset: https://www.kaggle.com/datasets/marius2303/ad-click-prediction-dataset/data
 - Description: The success of advertisement click through of 4000 users, certain user demographics, and categories such as time of day, advertisement placement, and prior browsing history.
@@ -63,31 +85,25 @@ Dataset: https://www.kaggle.com/datasets/marius2303/ad-click-prediction-dataset/
   - Significant NULL coverage in key columns
   - It is unclear what timeframe the data spans
   - 
+  - Only 816 fully-non-null rows
+  - Only 440 rows after removing duplicates and nulls
 - Licensing: Apache 2.0
 
-Dataset: https://www.kaggle.com/datasets/salahuddinahmedshuvo/ecommerce-consumer-behavior-analysis-data
-- Description: A collection of the purchasing habits of 1000 users and some of the metrics that perhaps can be used to predict those habits.  
-- Purpose: Consider the impact of advertisement on different demographics to inform how worth advertising to them is.
-- Age of data: January - December of 2024
-- Data storage: The data is stored as a **CSV**.
-- Potential issues with the data:
-  - "Time of Purchase" column actually represents date.
-  - 
-- Licensing: CC 4.0: International
 
-Other possible resources:
-Suggested market trends within the hydration bottle market: https://www.marketresearchforecast.com/reports/hydration-bottle-market-7431#summary
-Exercise hours (only has examples of data, not the data itself):https://pmc.ncbi.nlm.nih.gov/articles/PMC10192159/
-Age-based advertisement platform consumption (Could influence where we show ads): 
-                                     - (Requires purchase/sign up) https://www.statista.com/statistics/1545610/advertising-media-try-new-product-by-age-usa/
-                                     - (Ad click prediction larger and more comprehensive, but less well-defined; might be simulated) https://data.mendeley.com/datasets/wrvjmdtjd9/1
-                                     - (Ad click prediction, might be simulated) https://www.kaggle.com/datasets/ziya07/advertising-campaign-dataset
-Top Influencers (Streamers/youtubers): 
-                                     - https://hypeauditor.com/top-youtube-fitness/
-                                     - https://www.influencer-hero.com/top-influencers/top-120-physical-fitness-workout-influencers-in-the-us
-                                     - https://www.twitchmetrics.net/channels/viewership?game=Fitness+%26+Health
-Diverse user exercise habits, health, age, gender, etc (for a specific Finnish town): https://datacatalogue.cessda.eu/detail?q=a3aea11ff1c80ebbf02c58f6032beb6ef71607ed4d011f21c0eee4c7c8de59af
-Social media usage changes during covid: https://plos.figshare.com/articles/dataset/The_use_of_mobile_apps_for_health-related_purposes_before_and_during_COVID-19_/20511149?file=36715580
+### Other related resources:
+- Suggested market trends within the hydration bottle market: https://www.marketresearchforecast.com/reports/hydration-bottle-market-7431#summary
+- Exercise hours (only has examples of data, not the data itself):https://pmc.ncbi.nlm.nih.gov/articles/PMC10192159/
+- Age-based advertisement platform consumption (Could influence where we show ads): 
+  - (Requires purchase/sign up) https://www.statista.com/statistics/1545610/advertising-media-try-new-product-by-age-usa/
+  - (purchasing habits of 1000 users and metrics to predict those habits, SYNTHETIC DATA) https://www.kaggle.com/datasets/salahuddinahmedshuvo/ecommerce-consumer-behavior-analysis-data
+  - (Ad click prediction larger and more comprehensive, but less well-defined; might be simulated) https://data.mendeley.com/datasets/wrvjmdtjd9/1
+  - (Ad click prediction, might be simulated) https://www.kaggle.com/datasets/ziya07/advertising-campaign-dataset
+- Top Influencers (Streamers/youtubers): 
+  - https://hypeauditor.com/top-youtube-fitness/
+  - https://www.influencer-hero.com/top-influencers/top-120-physical-fitness-workout-influencers-in-the-us
+  - https://www.twitchmetrics.net/channels/viewership?game=Fitness+%26+Health
+- Diverse user exercise habits, health, age, gender, etc (for a specific Finnish town): https://datacatalogue.cessda.eu/detail?q=a3aea11ff1c80ebbf02c58f6032beb6ef71607ed4d011f21c0eee4c7c8de59af
+- Social media usage changes during COVID: https://plos.figshare.com/articles/dataset/The_use_of_mobile_apps_for_health-related_purposes_before_and_during_COVID-19_/20511149?file=36715580
 
 
 ## PROCESS
