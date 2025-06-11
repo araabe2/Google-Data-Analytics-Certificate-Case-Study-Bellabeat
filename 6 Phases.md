@@ -32,9 +32,22 @@ Dataset: https://zenodo.org/records/53894#.YMoUpnVKiP9
 - Purpose: Discover and describe trends within user activity habits.
 - Age of data: March - May of 2016
 - Data storage: The formatting of this data is one best suited for an **SQL database**.
-- Potential issues with the data:
-  - x
+- Potential issues with the data (Fitabase Data 3.12.16-4.11.16):
+  - dailyActivity_merged: contains dates from 3/25-4/12/2016 instead of 3/12-4/11/2016 for a significant number of users.
+  - dailyActivity_merged: User-logged activity seems widely ignored.
+  - heartrate_seconds_merged: (5 second intervals) data before 3/31/2016 is less populous than afterwards.
+  - hourlyCalories_merged:  Calories possibly contains outliers, considering one number is 933 whereas the majority else are centered around 42.
+  - hourlyIntensities_merged: "Intensity" isn't well defined => (RESOLVED) via link below
+  - minuteMETsNarrow_merged: "METs": Per notes: "All MET values exported by Fitabase are multiplied by 10.  Please divide by 10 to get accurate MET values." 
+  - weightLogInfo_merged: Fat column is widely null.
+- Potential issues with the data (Fitabase Data 4.12.16-5.12.16):
+  - dailyActivity_merged: User-logged activity seems widely ignored.
+  - minuteCaloriesWide_merged: Calories0-Calories59 have the same distribution, meaning minute-level-detail is unreliable.
+  - minuteCaloriesnarrow_merged: Because of the above line, data here is suspect, too.
+  - minuteMETsNarrow_merged: "METs": Per notes: "All MET values exported by Fitabase are multiplied by 10.  Please divide by 10 to get accurate MET values."
+  - weightLogInfo_merged: Fat column is widely null.
 - Licensing: CC 4.0: International
+- Helpful link for defining terms: https://www.fitabase.com/media/1748/fitabasedatadictionary.pdf
 
 
 
