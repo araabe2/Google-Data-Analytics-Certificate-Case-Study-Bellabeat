@@ -1,4 +1,4 @@
-  ## ASK 
+## ASK 
 **Purpose:** Understand the question being asked \
 **Deliverable:** A clear summary of the business task
 
@@ -48,19 +48,12 @@ Dataset: [Link](https://figshare.com/articles/dataset/Data_Sheet_1_Exploring_the
 - Data storage: The data is stored as a **CSV**.
 - Potential issues with the data:
   - Data columns are not labelled properly.  From [the full research paper](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.863544/full) and table 2, the columns have been matched to their values.
-  - Column Values do not match supposed measurements
+  - Column values do not match supposed measurements.
   - Employment Status does not match the expected factor count given in the article, and must be thrown out.
   - No explanation for the different values of "Ethnicity" are given.
-  -  
-  - 
   - Questions Starting with "INT" are out of 7 points, rather than out of 5 points like all other questions
   - Question SI5 is the only question phrased negatively.
 - Licensing: CC 4.0: International
-
-
-
-
-
 
 Dataset: https://www.kaggle.com/datasets/nithilaa/fitness-analysis
 - Description: Exercise habits of 545 acquaintances
@@ -69,12 +62,9 @@ Dataset: https://www.kaggle.com/datasets/nithilaa/fitness-analysis
 - Data storage: The data is stored as a **CSV**.
 - Potential issues with the data:
   - It is unclear how much consent was given to release these results for commercial usage.
-  - Self-reported Data
-  - Multiple columns contain unsorted multi-value answers, meaning careful and manual transformation is necessary
-  - 
+  - Significant portions of the data are self-reported.
+  - Multiple columns contain unsorted multi-value answers, meaning careful and manual transformation is necessary.
 - Licensing: Unknown
-
-
 
 Dataset: https://www.kaggle.com/datasets/marius2303/ad-click-prediction-dataset/data
 - Description: The success of advertisement click through of 4000 users, certain user demographics, and categories such as time of day, advertisement placement, and prior browsing history.
@@ -84,13 +74,11 @@ Dataset: https://www.kaggle.com/datasets/marius2303/ad-click-prediction-dataset/
 - Potential issues with the data:
   - Significant NULL coverage in key columns
   - It is unclear what timeframe the data spans
-  - 
   - Only 816 fully-non-null rows
   - Only 440 rows after removing duplicates and nulls
 - Licensing: Apache 2.0
 
-
-### Other related resources:
+### Other Possible/Related Resources:
 - Suggested market trends within the hydration bottle market: https://www.marketresearchforecast.com/reports/hydration-bottle-market-7431#summary
 - Exercise hours (only has examples of data, not the data itself):https://pmc.ncbi.nlm.nih.gov/articles/PMC10192159/
 - Age-based advertisement platform consumption (Could influence where we show ads): 
