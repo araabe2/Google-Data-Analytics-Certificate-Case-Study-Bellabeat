@@ -114,7 +114,23 @@ Dataset: https://www.kaggle.com/datasets/marius2303/ad-click-prediction-dataset/
 
 ### CLEANING STEPS
 FitBit User Dataset
-- x
+- Subset of data chosen, focusing on datasets with hourly intervals of exercise-related data (labeled for their **starting month**, although both groupings span a second month as well)
+  - MarchFitBit_dailyActivity, AprilFitBit_dailyActivity
+  - MarchFitBit_hourlyCalories, AprilFitBit_hourlyCalories
+  - MarchFitBit_hourlyIntensities, AprilFitBit_hourlyIntensities
+  - MarchFitBit_hourlySteps, AprilFitBit_hourlySteps
+  - MarchFitBit_minuteMETsNarrow, AprilFitBit_minuteMETsNarrow
+- Corrected datetime columns to mdy_hms time type
+  - For March/April daily activity, date is instead set to mdy
+- Lowered the granularity of March/April MET data to hourly groupings
+- Scaled METs down by a factor of 1/10, as per the instructions in the definition document
+- Concatenated March/April data into single dataframes
+- Merged all hourly data into a single dataframe
+- Removed duplicate rows from "Hourly" dataframe
+- Ignored rows containing nulls from "Hourly" dataframe, as they are all on the last day of reporting, and are only 6 values
+- Results are:
+  - FitBit_dailyActivity: Contains combined March/April daily data
+  - FitBit_hourlyData: Contains combined March/April hourly data for all desired metrics
 
 Adoption of Wearable Smart Payment Technology Survey Dataset
 - (ASSUMED DUE TO ARTICLE REFERENCING THE DATA) Female is more populous than Male => Transformed gender integers to factors
