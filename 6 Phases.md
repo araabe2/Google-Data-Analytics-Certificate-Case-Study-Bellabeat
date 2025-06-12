@@ -113,7 +113,7 @@ Dataset: https://www.kaggle.com/datasets/marius2303/ad-click-prediction-dataset/
 **Deliverable:** Documentation of any cleaning or manipulation of data
 
 ### CLEANING STEPS
-FitBit User Dataset
+#### FitBit User Dataset
 - Subset of data chosen, focusing on datasets with hourly intervals of exercise-related data (labeled for their **starting month**, although both groupings span a second month as well)
   - MarchFitBit_dailyActivity, AprilFitBit_dailyActivity
   - MarchFitBit_hourlyCalories, AprilFitBit_hourlyCalories
@@ -132,7 +132,7 @@ FitBit User Dataset
   - FitBit_dailyActivity: Contains combined March/April daily data
   - FitBit_hourlyData: Contains combined March/April hourly data for all desired metrics
 
-Adoption of Wearable Smart Payment Technology Survey Dataset
+#### Adoption of Wearable Smart Payment Technology Survey Dataset
 - (ASSUMED DUE TO ARTICLE REFERENCING THE DATA) Female is more populous than Male => Transformed gender integers to factors
   - 1 -> "m"
   - 2 -> "f"
@@ -178,7 +178,7 @@ Adoption of Wearable Smart Payment Technology Survey Dataset
   - Education <- X.5.Education
   - Average_montly_income <- X.7.AverageMonthlyIncome
 
-Exercise Habits of 545 Respondents Survey Dataset
+#### Exercise Habits of 545 Respondents Survey Dataset
 - Split the multi-valued column "What.barriers..if.any..prevent.you.from.exercising.more.regularly.............Please.select.all.that.apply." into boolean columns:
   - Time (I don't have enough time) (290 Values)
   - Motivation (I can't stay motivated) (178 Values)
@@ -224,7 +224,7 @@ Exercise Habits of 545 Respondents Survey Dataset
   - perceived_health <- How.healthy.do.you.consider.yourself.
   - past_fitness_equipment_purchase <- Have.you.ever.purchased.a.fitness.equipment.
 
-Ad Click Success or Failure Dataset
+#### Ad Click Success or Failure Dataset
 - Transformed "CLICK" column to factors (0 to "no click", 1 to "click")
 - Dropped all nulls and duplicated values, leaving 440 unique and non-null rows.
 - Dropped all columns except
