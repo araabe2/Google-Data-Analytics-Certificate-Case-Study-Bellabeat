@@ -128,6 +128,9 @@ Dataset: https://www.kaggle.com/datasets/marius2303/ad-click-prediction-dataset/
 - Merged all hourly data into a single dataframe
 - Removed duplicate rows from "Hourly" dataframe
 - Ignored rows containing nulls from "Hourly" dataframe, as they are all on the last day of reporting, and are only 6 values
+- Split "Hour of the Day" into its own column for Hourly Data
+- Split "Day of the Week" into its own column for Hourly Data
+- Split "Day of the Week" into its own column for Daily Activity Data
 - Results are:
   - FitBit_dailyActivity: Contains combined March/April daily data
   - FitBit_hourlyData: Contains combined March/April hourly data for all desired metrics
@@ -240,6 +243,26 @@ Dataset: https://www.kaggle.com/datasets/marius2303/ad-click-prediction-dataset/
 **Deliverable:** A summary of your analysis
 
 ### Analysis
+**Question**: How can we better inform our marketing choies for **[Bellabeat Spring]** by knowing about trends within the Smart Device marketspace?
+
+**Observations from the data**:
+From the FitBit User Dataset (Day Slice):
+- Data displayed that users **exercised** for the **highest distance** on **Wednesdays and Saturdays**.
+- The **lowest exercise distance** was observed on **Fridays**.
+- Similarly, the users displayed a tendency to **burn more calories** on **Mondays, Wednesdays, and Saturdays**, and the **least amount** on **Fridays**.
+- When wearing their FitBits for exercise, users **most commonly** did **light exercise**.  (This could be the classification for activities like errands and housework.)
+- When performing more **vigorous exercise**, users prefered **very active exercise** to **moderate exercise** (For clarity: a greater exercise rate over a medium one).
+- For this more **vigorous exercise**, the data displayed a preference for participating on **Mondays and Saturdays**.
+From the FitBit User Dataset (Hourly Slice):
+- There are **two MET consumption peaks** over the course of a day, one at about **12pm** and a more significant peak at **6pm**.
+- There are similar results for hourly step count, although the earlier peak **spans 12 to 1pm**.
+- There are similar results for calories burned per hour.  An interesting note is that **calories burned** was **not insignificant during sleep hours**, averaging ~75 at its lowest.
+- Average exercise is stays high from 10am to 8pm, with a small afternoon dip between 1 and 4pm.  The maximum exercise intensity is still 6pm.
+- On an average weekend, users begin their MET consumption by 1-2 hours than they would on a weekday.
+- Users maintain a more even level of hourly MET consumption on the weekend compared to weekday results.  Weekdays have a lower hourly MET consumption rate 9-5pm, after which a significant spike pushes the weekday hourly MET consumption over the maximum weekend hourly MET consumption.
+From the Smart Technology Acceptance Survey Dataset:
+-  
+
 
 
 ## SHARE
