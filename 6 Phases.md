@@ -246,6 +246,7 @@ Dataset: https://www.kaggle.com/datasets/marius2303/ad-click-prediction-dataset/
 **Question**: How can we better inform our marketing choies for **[Bellabeat Spring]** by knowing about trends within the Smart Device marketspace?
 
 **Observations from the data**:
+
 From the FitBit User Dataset (Day Slice):
 - Data displayed that users **exercised** for the **highest distance** on **Wednesdays and Saturdays**.
 - The **lowest exercise distance** was observed on **Fridays**.
@@ -253,6 +254,7 @@ From the FitBit User Dataset (Day Slice):
 - When wearing their FitBits for exercise, users **most commonly** did **light exercise**.  (This could be the classification for activities like errands and housework.)
 - When performing more **vigorous exercise**, users prefered **very active exercise** to **moderate exercise** (For clarity: a greater exercise rate over a medium one).
 - For this more **vigorous exercise**, the data displayed a preference for participating on **Mondays and Saturdays**.
+
 From the FitBit User Dataset (Hourly Slice):
 - There are **two MET consumption peaks** over the course of a day, one at about **12pm** and a more significant peak at **6pm**.
 - There are similar results for hourly step count, although the earlier peak **spans 12 to 1pm**.
@@ -260,8 +262,25 @@ From the FitBit User Dataset (Hourly Slice):
 - Average exercise is stays high from 10am to 8pm, with a small afternoon dip between 1 and 4pm.  The maximum exercise intensity is still 6pm.
 - On an average weekend, users begin their MET consumption by 1-2 hours than they would on a weekday.
 - Users maintain a more even level of hourly MET consumption on the weekend compared to weekday results.  Weekdays have a lower hourly MET consumption rate 9-5pm, after which a significant spike pushes the weekday hourly MET consumption over the maximum weekend hourly MET consumption.
+
 From the Smart Technology Acceptance Survey Dataset:
--  
+- The median respondant of this smart technology had the highest perceived usefulness score in the female portion of the 26-35 age range.
+- The median respondant of this smart technology had the highest trust score in the 46-55 age range.
+- The median respondant of this smart technology had the highest lifestyle fit score in the female portion of the 26-35 age range.
+- The median respondant of this smart technology had the highest help resource availability score in males of the 36-45 age range.
+- The median respondant of this smart technology had the highest effect of social influence score in the 26-35 age range (both genders).
+- The median respondant of this smart technology had the highest intention of adoption score in the female 26-35 age range.
+- The median respondant from the 56-65 age range had the lowest scores in all categories.
+- Females in the 26-35 age range had the highest average combined score.
+- In the categories of trust, lifestyle fit, help resource availability, effect of social influence, and intention of adoption categories, we see a upward trend in the relationship between education and scores.
+  - The exception is: Respondants with a bachelor's degree scored the lowest on trust of the technology.
+- There was little variation within data of the relationship between perceived usefulness scores and education.
+- Overall, greater education indicates a greater favorability towards this smart technology.
+- There was no clear relation between scores and income.
+
+From the Exercise Habits Survey Dataset:
+- 
+
 
 
 
