@@ -227,7 +227,7 @@ Dataset: https://www.kaggle.com/datasets/marius2303/ad-click-prediction-dataset/
   - perceived_health <- How.healthy.do.you.consider.yourself.
   - past_fitness_equipment_purchase <- Have.you.ever.purchased.a.fitness.equipment.
 
-#### Ad Click Success or Failure Dataset
+#### Ad Click Success/Failure Dataset
 - Transformed "CLICK" column to factors (0 to "no click", 1 to "click")
 - Dropped all nulls and duplicated values, leaving 440 unique and non-null rows.
 - Dropped all columns except
@@ -279,19 +279,20 @@ From the Smart Technology Acceptance Survey Dataset:
 - There was no clear relation between scores and income.
 
 From the Exercise Habits Survey Dataset:
-- The **least popular time to exercise was afternoon**, with **morning** outperforming evening for **most popular time to exercise**.
-- For the female demographic, respondants were most likely to rate exercise a 4/5 in personally importance.  For the male demographic, there was a close to linear positive relation between person value score and the frequency of responses.
-- The age demographics that were least likely to rate exercise as personally important were the ages from 15 to 18 and 19 to 25.
+- The **least popular time to exercise was afternoon**, with **morning** outperforming evening for **most popular time to exercise**.  Males, specifically, far prefer morning exercise.
+- Generally, the higher the rating for personal value placed upon exercising, the higher the frequency of responses claiming that value.  The exception is within the male demographic, where respondants are more likely to claim a 3/5 than a 4/5 in personal exercise importance.
 - For female respondants, the most common exercise frequency was 1 to 2 times per week.
 - The least common exercise frequency is 5-6 times per week.
-- Females most frequently report exercising 30 minutes per day.  Males most frequently report exercising 60 minutes per day.
+- Females most frequently report exercising 30 minutes per day.  Males reported at similar levels exercising 30 and 60 minutes per day.
 - While most respondants habitually exercise in a solo setting, male respondants are significantly more likely to exercise as a group compared to females.
-- Male respondants were slightly more likely to have previously purchased exercise equipment.  The only age range where the opposite was true was in the 15-18 age range.
+- Male respondants were slightly more likely to have previously purchased exercise equipment.  The only age ranges where the opposite was true were in the 15-18 range and the 40+ range.
 - The most common type of exercise was walking and jogging.
 - Zumba is most popular amongst females from 26 to 30.
 - Team sports are most popular among males from 15 to 25.
 - Gym is most popular amongst males from 15 to 40.
 - Users with higher ratings for their personal exercise importance spent more days per week exercising.
+
+From the Ad Click Success/Failure Dataset
 - 
 
 
