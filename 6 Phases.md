@@ -279,6 +279,19 @@ From the Smart Technology Acceptance Survey Dataset:
 - There was no clear relation between scores and income.
 
 From the Exercise Habits Survey Dataset:
+- The **least popular time to exercise was afternoon**, with **morning** outperforming evening for **most popular time to exercise**.
+- For the female demographic, respondants were most likely to rate exercise a 4/5 in personally importance.  For the male demographic, there was a close to linear positive relation between person value score and the frequency of responses.
+- The age demographics that were least likely to rate exercise as personally important were the ages from 15 to 18 and 19 to 25.
+- For female respondants, the most common exercise frequency was 1 to 2 times per week.
+- The least common exercise frequency is 5-6 times per week.
+- Females most frequently report exercising 30 minutes per day.  Males most frequently report exercising 60 minutes per day.
+- While most respondants habitually exercise in a solo setting, male respondants are significantly more likely to exercise as a group compared to females.
+- Male respondants were slightly more likely to have previously purchased exercise equipment.  The only age range where the opposite was true was in the 15-18 age range.
+- The most common type of exercise was walking and jogging.
+- Zumba is most popular amongst females from 26 to 30.
+- Team sports are most popular among males from 15 to 25.
+- Gym is most popular amongst males from 15 to 40.
+- Users with higher ratings for their personal exercise importance spent more days per week exercising.
 - 
 
 
