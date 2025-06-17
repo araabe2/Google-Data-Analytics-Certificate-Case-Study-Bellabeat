@@ -293,8 +293,52 @@ From the Exercise Habits Survey Dataset:
 - Users with higher ratings for their personal exercise importance spent more days per week exercising.
 
 From the Ad Click Success/Failure Dataset
-- 
-
+- Female users are most likely to click on an advertisement in the morning or afternoon.
+- Male users are most likely to click on an advertisement in the evening or night.
+- Non-binary users are least likely to click on an advertisement in the evening.
+- For female users:
+  - Users in the 15-25 age range are most likely to click on an advertisement in the afternoon.
+  - Users in the 25-35 age range are most likely to click on an advertisement in the morning.  They are very unlikely to click at night.
+  - Users in the 35-45 age range are likely to click at any time of day, although are least likely to do so in the evening.
+  - Users in the 45-55 age range are the least likely to click on an advertisement. Their highest click through rates are in the afternoon and night.
+  - Users in the 55-65 age range almost exclusively click on advertisements in the morning.
+  - Despite having the greatest browsing history in news, click through rates are highest when consuming entertainment content or when shopping.
+  - Female users spend the majority of their browsing time on mobile devices.  Their highest click through rate is also on mobile devices.
+- For male users:
+  - Users in the 15-25 age range almost exclusively click on advertisements at night.  They are also the least likely to click on an advertisement.
+  - Users in the 25-35 age range click at any time of day, but are most likely to click in the evening.
+  - Users in the 35-45 age range are most likely to click in the afternoon and evening.
+  - Users in the 45-55 age range are most likely to click in the morning and night.
+  - Users in the 55-65 age range are most likely to click in the morning and evening.
+  - Despite having the greatest browsing history social media, click through rates are highest when consuming entertainment content, with close seconds of shopping and education content.
+  - Male users spend the majority of their browsing time on desktop devices.  Their highest click through rate is also on desktop devices.
+- For non-binary users (limited data):
+  - Users in the 25-35 age range are very likely to click on advertisements.
+  - Users in the 35-45 age range are most likely to click at night.
+  - Users in the 55-65 age range are most likely to click in the afternoon.
+  - Other age ranges either have too few clicks or too few data to draw conclusions.
+  - Click through rates are highest when users are browsing social media or other entertainment content.
+  - Non-binary users spend the majority of their browsing time on desktop devices.  Despite that, their highest click through rate comes from mobile devices.
+- For all genders:
+  - Users in the 15-25 age range are most likely to click at night.
+  - Users in the 25-35 age range are likely to click.  They are least likely to click at night.
+  - Users in the 35-45 age range are least likely to click in the evening.
+  - Users in the 45-55 age range are most likely to click in the morning or night.  They are the least likely to click on an advertisement.
+  - Users in the 55-65 age range are most likely to click in the morning, with the afternoon being a productive time as well.
+  - Click through rates are highest for entertainment content and when shopping.
+  - Users spend the majority of their time browsing news and social media.
+  - Users spend the majority of their browsing time on desktop devices, but have the highest click through rate on mobile devices.
+- Age Range Data:
+  - Users in the 15-25 age range mostly spend their time on entertainment content, education content, and social media.  They are relatively unlikely to click on an advertisement.
+  - Users in the 15-25 age range mostly spend their browsing time on mobile devices, and have the highest click through rate there as well.
+  - Users in the 25-35 age range mostly spend their time on news, shopping, and social media.  The highest click through rate in this age range comes from social media.
+  - Users in the 25-35 age range mostly spend their browsing time on mobile devices, but have the highest click through rate on desktop devices.
+  - Users in the 35-45 age range mostly spend their time on shopping, entertainment content, and social media.  Their highest click through rates are in their leading content, shopping and entertainment.
+  - Users in the 35-45 age range mostly spend their browsing time on desktop devices, but have the highest click through rate on mobile devices.
+  - Users in the 45-55 age range mostly spend their time on news and education content.  They are relatively unlikely to click on an advertisement.
+  - Users in the 45-55 age range mostly spend their browsing time on tablets and desktop devices, but have the highest click through rate on mobile devices.
+  - Users in the 55-65 age range mostly spend their time on social media.  Their highest click through rate is when consuming news content.
+  - Users in the 55-65 age range mostly spend their browsing time on desktop devices, and have the highest click through rate there as well.
 
 
 
