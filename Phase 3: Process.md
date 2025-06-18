@@ -128,6 +128,6 @@
   - time_of_day
   - click
 
-<br/><br/>
+<br/>
 
 [NEXT STAGE (ANALYZE)](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%204:%20Analysis.md)
