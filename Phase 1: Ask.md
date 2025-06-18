@@ -19,3 +19,6 @@
  - Using data gathered from non-Bellabeat devices, discover trends and insights to inform Bellabeat marketing strategies.
  - Apply high-level trends and insights to a specific product, Bellabeat Spring, to provide specific suggestions for marketing efforts.
 
+<br/><br/>
+
+[NEXT STAGE (PREPARE)](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%202%3A%20%20Prepare.md)
