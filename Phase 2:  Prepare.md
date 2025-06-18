@@ -60,7 +60,7 @@ Dataset: Exercise Habits Survey
   - Multiple columns contain unsorted multi-value answers, meaning careful and manual transformation is necessary.
 - Licensing: Unknown
 
-Dataset: Ad Click Success/Failure Dataset
+Dataset: Ad Click Success/Failure Data
 - https://www.kaggle.com/datasets/marius2303/ad-click-prediction-dataset/data
 - Description: The success of advertisement click through of 4000 users, certain user demographics, and categories such as time of day, advertisement placement, and prior browsing history.
 - Purpose: Identify when is best to advertise to users.
