@@ -4,7 +4,8 @@
 
 
 ### Dataset Descriptions:
-Dataset: https://zenodo.org/records/53894#.YMoUpnVKiP9
+Dataset: FitBit Data
+- https://zenodo.org/records/53894#.YMoUpnVKiP9
 - Description: The data describes user activity of 30 users over two separate 1-month periods.
 - Purpose: Discover and describe trends within user activity habits.
 - Age of data: March - May of 2016
@@ -32,7 +33,8 @@ Dataset: https://zenodo.org/records/53894#.YMoUpnVKiP9
 - Licensing: CC 4.0: International
 - **Helpful link for defining terms**: https://www.fitabase.com/media/1748/fitabasedatadictionary.pdf
 
-Dataset: [Link](https://figshare.com/articles/dataset/Data_Sheet_1_Exploring_the_smart_wearable_payment_device_adoption_intention_Using_the_symmetrical_and_asymmetrical_analysis_methods_CSV/20963635/1?file=37250668)
+Dataset: Smart Payment Device Acceptance Survey
+- [Link](https://figshare.com/articles/dataset/Data_Sheet_1_Exploring_the_smart_wearable_payment_device_adoption_intention_Using_the_symmetrical_and_asymmetrical_analysis_methods_CSV/20963635/1?file=37250668)
 - Description: User-reported results from a survey of 500 Malaysian respondants discussing their comfort levels with adopting smart technology, along with key descriptors of lifestyle.
 - Purpose: Allow further insights into the portion of the market that we are targetting advertisements towards.
 - Age of data: January - February of 2021
@@ -46,7 +48,8 @@ Dataset: [Link](https://figshare.com/articles/dataset/Data_Sheet_1_Exploring_the
   - Question SI5 is the only question phrased negatively.
 - Licensing: CC 4.0: International
 
-Dataset: https://www.kaggle.com/datasets/nithilaa/fitness-analysis
+Dataset: Exercise Habits Survey
+- https://www.kaggle.com/datasets/nithilaa/fitness-analysis
 - Description: Exercise habits of 545 acquaintances
 - Purpose: Identify trends within different habit striations of exercise partakers to consider where to focus market efforts.
 - Age of data: July of 2019
@@ -57,7 +60,8 @@ Dataset: https://www.kaggle.com/datasets/nithilaa/fitness-analysis
   - Multiple columns contain unsorted multi-value answers, meaning careful and manual transformation is necessary.
 - Licensing: Unknown
 
-Dataset: https://www.kaggle.com/datasets/marius2303/ad-click-prediction-dataset/data
+Dataset: Ad Click Success/Failure Dataset
+- https://www.kaggle.com/datasets/marius2303/ad-click-prediction-dataset/data
 - Description: The success of advertisement click through of 4000 users, certain user demographics, and categories such as time of day, advertisement placement, and prior browsing history.
 - Purpose: Identify when is best to advertise to users.
 - Age of data: **UPLOADED** September 2024
