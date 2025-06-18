@@ -87,3 +87,7 @@ Dataset: Ad Click Success/Failure Data
   - https://www.twitchmetrics.net/channels/viewership?game=Fitness+%26+Health
 - Diverse user exercise habits, health, age, gender, etc (for a specific Finnish town): https://datacatalogue.cessda.eu/detail?q=a3aea11ff1c80ebbf02c58f6032beb6ef71607ed4d011f21c0eee4c7c8de59af
 - Social media usage changes during COVID: https://plos.figshare.com/articles/dataset/The_use_of_mobile_apps_for_health-related_purposes_before_and_during_COVID-19_/20511149?file=36715580
+
+<br/><br/>
+
+[NEXT STAGE (PROCESS)](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%203%3A%20Process.md)
