@@ -19,7 +19,7 @@ Dataset: FitBit Data
   - heartrate_seconds_merged: (5 second intervals) data before 3/31/2016 is less populous than afterwards.
   - hourlyCalories_merged:  Calories possibly contains outliers, considering one number is 933 whereas the majority else are centered around 42.
   - hourlyIntensities_merged: "Intensity" isn't well defined => (RESOLVED) via link below
-  - minuteMETsNarrow_merged: "METs": Per notes: "All MET values exported by Fitabase are multiplied by 10.  Please divide by 10 to get accurate MET values." 
+  - minuteMETsNarrow_merged: "METs": Per data definition in the link below: "All MET values exported by Fitabase are multiplied by 10.  Please divide by 10 to get accurate MET values." 
   - weightLogInfo_merged: Fat column is widely null.
 - Potential issues with the data **(Fitabase Data 4.12.16-5.12.16)**:
   - Distances are measured in kilometers.
