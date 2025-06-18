@@ -4,7 +4,7 @@
 
 
 ### Dataset Descriptions:
-Dataset: FitBit User Data
+#### Dataset: FitBit User Data
 - https://zenodo.org/records/53894#.YMoUpnVKiP9
 - Description: The data describes user activity of 30 users over two separate 1-month periods.
 - Purpose: Discover and describe trends within user activity habits.
@@ -33,7 +33,9 @@ Dataset: FitBit User Data
 - Licensing: CC 4.0: International
 - **Helpful link for defining terms**: https://www.fitabase.com/media/1748/fitabasedatadictionary.pdf
 
-Dataset: Adoption of Wearable Smart Payment Technology Survey
+<br/><br/>
+
+#### Dataset: Adoption of Wearable Smart Payment Technology Survey
 - [Link](https://figshare.com/articles/dataset/Data_Sheet_1_Exploring_the_smart_wearable_payment_device_adoption_intention_Using_the_symmetrical_and_asymmetrical_analysis_methods_CSV/20963635/1?file=37250668)
 - Description: User-reported results from a survey of 500 Malaysian respondants discussing their comfort levels with adopting smart technology, along with key descriptors of lifestyle.
 - Purpose: Allow further insights into the portion of the market that we are targetting advertisements towards.
@@ -48,7 +50,9 @@ Dataset: Adoption of Wearable Smart Payment Technology Survey
   - Question SI5 is the only question phrased negatively.
 - Licensing: CC 4.0: International
 
-Dataset: Exercise Habits Survey
+<br/><br/>
+
+#### Dataset: Exercise Habits Survey
 - https://www.kaggle.com/datasets/nithilaa/fitness-analysis
 - Description: Exercise habits of 545 acquaintances
 - Purpose: Identify trends within different habit striations of exercise partakers to consider where to focus market efforts.
@@ -60,7 +64,9 @@ Dataset: Exercise Habits Survey
   - Multiple columns contain unsorted multi-value answers, meaning careful and manual transformation is necessary.
 - Licensing: Unknown
 
-Dataset: Ad Click Success/Failure Data
+<br/><br/>
+
+#### Dataset: Ad Click Success/Failure Data
 - https://www.kaggle.com/datasets/marius2303/ad-click-prediction-dataset/data
 - Description: The success of advertisement click through of 4000 users, certain user demographics, and categories such as time of day, advertisement placement, and prior browsing history.
 - Purpose: Identify when is best to advertise to users.
@@ -72,6 +78,8 @@ Dataset: Ad Click Success/Failure Data
   - Only 816 fully-non-null rows
   - Only 440 rows after removing duplicates and nulls
 - Licensing: Apache 2.0
+
+<br/><br/>
 
 ### Other Possible/Related Resources:
 - Suggested market trends within the hydration bottle market: https://www.marketresearchforecast.com/reports/hydration-bottle-market-7431#summary
