@@ -4,7 +4,7 @@
 
 
 ### Dataset Descriptions:
-Dataset: FitBit Data
+Dataset: FitBit User Data
 - https://zenodo.org/records/53894#.YMoUpnVKiP9
 - Description: The data describes user activity of 30 users over two separate 1-month periods.
 - Purpose: Discover and describe trends within user activity habits.
@@ -33,7 +33,7 @@ Dataset: FitBit Data
 - Licensing: CC 4.0: International
 - **Helpful link for defining terms**: https://www.fitabase.com/media/1748/fitabasedatadictionary.pdf
 
-Dataset: Smart Payment Device Acceptance Survey
+Dataset: Adoption of Wearable Smart Payment Technology Survey
 - [Link](https://figshare.com/articles/dataset/Data_Sheet_1_Exploring_the_smart_wearable_payment_device_adoption_intention_Using_the_symmetrical_and_asymmetrical_analysis_methods_CSV/20963635/1?file=37250668)
 - Description: User-reported results from a survey of 500 Malaysian respondants discussing their comfort levels with adopting smart technology, along with key descriptors of lifestyle.
 - Purpose: Allow further insights into the portion of the market that we are targetting advertisements towards.
