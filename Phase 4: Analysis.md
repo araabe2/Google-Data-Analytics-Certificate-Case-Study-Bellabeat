@@ -1,11 +1,15 @@
-## ANALYZE
+# ANALYZE
 **Purpose:** Develop conclusions to answer the question being asked \
 **Deliverable:** A summary of your analysis
 
-### Analysis
+## Analysis
 **Question**: How can we better inform our marketing choies for **[Bellabeat Spring]** by knowing about trends within the Smart Device marketspace?
 
-**Observations from the data**:
+**Analysis**:
+
+
+
+## Observations from the data:
 
 From the FitBit User Dataset (Day Slice):
 - Data displayed that users **exercised** for the **highest distance** on **Wednesdays and Saturdays**.
@@ -100,5 +104,3 @@ From the Ad Click Success/Failure Dataset
   - Users in the 55-65 age range mostly spend their time on social media.  Their highest click through rate is when consuming news content.
   - Users in the 55-65 age range mostly spend their browsing time on desktop devices, and have the highest click through rate there as well.
 
-### Summary Analysis:
-- 
