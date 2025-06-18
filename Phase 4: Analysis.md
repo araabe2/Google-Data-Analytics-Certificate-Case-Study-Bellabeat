@@ -6,6 +6,15 @@
 **Question**: How can we better inform our marketing choies for **[Bellabeat Spring]** by knowing about trends within the Smart Device marketspace?
 
 **Analysis**:
+Current marketing for BellaBeat products are focused towards a mainly female audience.  Considering this:
+- Smart device users are most likely to exercise on Mondays, Wednesdays, and Saturdays.  Depending on how much marketing is currently driving towards reaching our target audience, efforts should either strengthen our marketing efforts on these days, when users are most likely to be thinking about their hydration needs, or focus on building a market from within the users who exercise on the less frequent days.
+- Smart device users burn calories most at 6pm, perhaps because it is directly after work, so focus marketing efforts on product placement during those peak hours when users are most likely to be thirsty.
+- The product is likely to see a more constant use and reach on the weekends, compared to the weekdays where the product might reach a spike in searchability in the after-work hours.
+- The product is most likely to see acceptance amongst 26-35 year olds.  For a longer-term strategy, marketing to youths who will mature into the desired age range will provide a boost when they reach the age range.  For reaching older users, perhaps extra work should be done to ensure their participation.
+- Our demographics prefer morning exercise overall, but will not be likely to resonate with afternoon exercise specifically.
+- If we can encourage our demographics to have a stronger personal value for exercise, we will likely push them to exercise more and more frequently, making the product seem more desireable.
+- Female users, especially within our primary target demographics, are most likely to click on an advertisement in the morning or afternoon.  However, as our users' ages increase, they are more likely to click on advertisement later in the day.  Consider tailoring advertisements to appeal to the different ages at the different times of day.
+- Female users are also most likely to click on mobile advertisements, specifically when watching entertainment content or are already intentionally shopping.  Google Display Network can cover shopping, but sponsoring key demographic influencers to use and advertise the product can boost the product's public awareness and influence.
 
 
 
@@ -23,7 +32,7 @@ From the FitBit User Dataset (Hourly Slice):
 - There are **two MET consumption peaks** over the course of a day, one at about **12pm** and a more significant peak at **6pm**.
 - There are similar results for hourly step count, although the earlier peak **spans 12 to 1pm**.
 - There are similar results for calories burned per hour.  An interesting note is that **calories burned** was **not insignificant during sleep hours**, averaging ~75 at its lowest.
-- Average exercise is stays high from 10am to 8pm, with a small afternoon dip between 1 and 4pm.  The maximum exercise intensity is still 6pm.
+- Average exercise stays high from 10am to 8pm, with a small afternoon dip between 1 and 4pm.  The maximum exercise intensity is still 6pm.
 - On an average weekend, users begin their MET consumption by 1-2 hours than they would on a weekday.
 - Users maintain a more even level of hourly MET consumption on the weekend compared to weekday results.  Weekdays have a lower hourly MET consumption rate 9-5pm, after which a significant spike pushes the weekday hourly MET consumption over the maximum weekend hourly MET consumption.
 
