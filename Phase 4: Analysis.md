@@ -7,7 +7,7 @@
 
 **Analysis**:
 Current marketing for BellaBeat products are focused towards a mainly female audience.  Considering this:
-- Smart device users are most likely to exercise on Mondays, Wednesdays, and Saturdays.  Depending on how much marketing is currently driving towards reaching our target audience, efforts should either strengthen our marketing efforts on these days, when users are most likely to be thinking about their hydration needs, or focus on building a market from within the users who exercise on the less frequent days.
+- Smart device users are most likely to exercise on Mondays, Wednesdays, and Saturdays.  Depending on how much marketing is currently driving towards reaching our target audience, efforts should either strengthen our marketing efforts on these days, when users are most likely to be thinking about their hydration needs, or focus on building a market from within the users who exercise on the less common days.
 - Smart device users burn calories most at 6pm, perhaps because it is directly after work, so focus marketing efforts on product placement during those peak hours when users are most likely to be thirsty.
 - The product is likely to see a more constant searchability on the weekends, compared to the weekdays where the product might reach a spike in searchability in the after-work hours.
 - The product is most likely to see acceptance amongst 26-35 year olds.  For a longer-term strategy, marketing to youths who will mature into the desired age range will provide a boost when they reach the age range.  For reaching older users, extra advertising efforts are likely to increase their participation.
