@@ -102,13 +102,13 @@ From the Ad Click Success/Failure Dataset
   - Users spend the majority of their browsing time on desktop devices, but have the **highest click through rate** on **mobile devices**.
 - Age Range Data:
   - Users in the **15-25 age range** mostly spend their time on entertainment content, education content, and social media.  They **are relatively unlikely to click on an advertisement**.
-  - Users in the ''''' age range mostly spend their browsing time on mobile devices, and have the highest click through rate there as well.
+  - Users in the ' ' ' ' ' age range mostly spend their browsing time on mobile devices, and have the highest click through rate there as well.
   - Users in the **25-35 age range** mostly spend their time on news, shopping, and social media.  The **highest click through rate** in this age range comes from **social media**.
-  - Users in the ''''' age range mostly spend their browsing time on mobile devices, but have the highest click through rate on desktop devices.
+  - Users in the ' ' ' ' ' age range mostly spend their browsing time on mobile devices, but have the highest click through rate on desktop devices.
   - Users in the **35-45 age range** mostly spend their time on shopping, entertainment content, and social media.  Their **highest click through rates** are in their leading content categories, **shopping** and **entertainment**.
-  - Users in the ''''' age range mostly spend their browsing time on desktop devices, but have the highest click through rate on mobile devices.
+  - Users in the ' ' ' ' ' age range mostly spend their browsing time on desktop devices, but have the highest click through rate on mobile devices.
   - Users in the 45-55 age range mostly spend their time on news and education content.  They are relatively unlikely to click on an advertisement.
-  - Users in the ''''' age range mostly spend their browsing time on tablets and desktop devices, but have the highest click through rate on mobile devices.
+  - Users in the ' ' ' ' ' age range mostly spend their browsing time on tablets and desktop devices, but have the highest click through rate on mobile devices.
   - Users in the 55-65 age rang* mostly spend their time on social media.  Their highest click through rate is when consuming news content.
-  - Users in the ''''' age range mostly spend their browsing time on desktop devices, and have the highest click through rate there as well.
+  - Users in the ' ' ' ' ' age range mostly spend their browsing time on desktop devices, and have the highest click through rate there as well.
 
