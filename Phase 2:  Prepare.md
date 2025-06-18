@@ -28,7 +28,7 @@ Dataset: FitBit Data
   - dailyActivity_merged: User-logged activity seems widely ignored.
   - minuteCaloriesWide_merged: Calories0-Calories59 have the same distribution, meaning minute-level-detail is unreliable.
   - minuteCaloriesnarrow_merged: Because of the above line, data here is suspect, too.
-  - minuteMETsNarrow_merged: "METs": Per notes: "All MET values exported by Fitabase are multiplied by 10.  Please divide by 10 to get accurate MET values."
+  - minuteMETsNarrow_merged: "METs": Per data definition in the link below: "All MET values exported by Fitabase are multiplied by 10.  Please divide by 10 to get accurate MET values."
   - weightLogInfo_merged: Fat column is widely null.
 - Licensing: CC 4.0: International
 - **Helpful link for defining terms**: https://www.fitabase.com/media/1748/fitabasedatadictionary.pdf
