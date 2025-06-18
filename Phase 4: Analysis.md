@@ -34,6 +34,8 @@ From the FitBit User Dataset (Hourly Slice):
 - On an average weekend, users begin their MET consumption by 1-2 hours than they would on a weekday.
 - Users maintain a more **even level of hourly MET consumption on the weekend** compared to weekday results.  **Weekdays have a lower hourly MET consumption rate 9-5pm, after which a significant spike** pushes the weekday hourly MET consumption over the maximum weekend hourly MET consumption.
 
+<br/><br/>
+
 From the Smart Technology Acceptance Survey Dataset:
 - The **median respondant** of this smart technology had the **highest perceived usefulness score in the female portion of the 26-35 age range**.
 - The **median respondant** of this smart technology had the **highest trust score in the 46-55 age range**.
@@ -49,6 +51,8 @@ From the Smart Technology Acceptance Survey Dataset:
 - Overall, greater education indicates a greater favorability towards this smart technology.
 - **There was no clear relation between scores and income**.
 
+<br/><br/>
+
 From the Exercise Habits Survey Dataset:
 - The **least popular time to exercise was afternoon**, with **morning** outperforming evening for **most popular time to exercise**.  Males, specifically, far prefer morning exercise.
 - Generally,** the higher the rating for personal value placed upon exercising**, the **higher** the **frequency of responses claiming that value**.  The exception is within the male demographic, where respondants are more likely to claim a 3/5 than a 4/5 in personal exercise importance.
@@ -63,6 +67,8 @@ From the Exercise Habits Survey Dataset:
 - Team sports are most popular among males from 15 to 25.
 - Gym is most popular amongst males from 15 to 40.
 - Users with **higher ratings for their personal exercise importance spent more days per week exercising**.
+
+<br/><br/>
 
 From the Ad Click Success/Failure Dataset
 - **Female** users are **most likely to click** on an advertisement **in the morning or afternoon**.
