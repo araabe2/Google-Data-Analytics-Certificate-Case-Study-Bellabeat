@@ -6,7 +6,7 @@
 **Question**: How can we better inform our marketing choies for **[Bellabeat Spring]** by knowing about trends within the Smart Device marketspace?
 
 **Analysis**:
-Current marketing for BellaBeat products are focused towards a mainly female audience.  Considering this:
+Current marketing for BellaBeat products are focused towards a female audience.  Considering this:
 - Smart device users are most likely to exercise on Mondays, Wednesdays, and Saturdays.  Depending on how much marketing is currently driving towards reaching our target audience, efforts should either strengthen our marketing efforts on these days, when users are most likely to be thinking about their hydration needs, or focus on building a market from within the users who exercise on the less common days.
 - Smart device users burn calories most at 6pm, perhaps because it is directly after work, so focus marketing efforts on product placement during those peak hours when users are most likely to be thirsty.
 - The product is likely to see a more constant searchability on the weekends, compared to the weekdays where the product might reach a spike in searchability in the after-work hours.
