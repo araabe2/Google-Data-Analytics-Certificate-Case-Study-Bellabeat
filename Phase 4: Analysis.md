@@ -18,7 +18,7 @@ Current marketing for BellaBeat products are focused towards a female audience. 
 - Female users, especially within our primary target demographics, are most likely to click on an advertisement in the morning or afternoon.  However, as our users' ages increase, they are more likely to click on advertisement later in the day.  Consider tailoring advertisements to appeal to the different ages at the different times of day.
 - Female users are also most likely to click on mobile advertisements, specifically when watching entertainment content or are already intentionally shopping.  Google Display Network can cover shopping, but sponsoring key demographic influencers in Youtube, TikTok, Twitch, and other social media to use and advertise the product can boost the product's public awareness and influence.
 
-## Observations from the data:
+## Observations from the data
 
 From the FitBit User Dataset (Day Slice):
 - Data displayed that users **exercised** for the **highest distance** on **Wednesdays and Saturdays**.
