@@ -2,6 +2,8 @@
 **Purpose:** Present findings to decision-makers/stakeholders \
 **Deliverable:** Supporting visualizations and key findings
 
+**- [Ask](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%201%3A%20Ask.md) - [Prepare](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%202%3A%20%20Prepare.md) - [Process](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%203%3A%20Process.md) - [Analyze](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%204:%20Analysis.md) - [Share](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%205%20+%206:%20Share%20+%20Act.md) - [Act](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%205%20+%206:%20Share%20+%20Act.md) -**
+
 ## Key Findings (Visualizations are in the Final Deliverable of the "Act" Phase)
 Recommendations Given:
 - Advertisements could be multipurpose:
