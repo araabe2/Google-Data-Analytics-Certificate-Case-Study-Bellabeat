@@ -84,7 +84,7 @@
 
 ## Other Possible/Related Resources:
 - Suggested market trends within the hydration bottle market: https://www.marketresearchforecast.com/reports/hydration-bottle-market-7431#summary
-- Exercise hours (only has examples of data, not the data itself):https://pmc.ncbi.nlm.nih.gov/articles/PMC10192159/
+- Exercise hours (only has examples of data, not the data itself): https://pmc.ncbi.nlm.nih.gov/articles/PMC10192159/
 - Age-based advertisement platform consumption (Could influence where we show ads): 
   - (Requires purchase/sign up) https://www.statista.com/statistics/1545610/advertising-media-try-new-product-by-age-usa/
   - (purchasing habits of 1000 users and metrics to predict those habits, SYNTHETIC DATA) https://www.kaggle.com/datasets/salahuddinahmedshuvo/ecommerce-consumer-behavior-analysis-data
