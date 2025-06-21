@@ -4,7 +4,7 @@
 
 **- [Ask](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%201%3A%20Ask.md) - [Prepare](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%202%3A%20%20Prepare.md) - [Process](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%203%3A%20Process.md) - [Analyze](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%204:%20Analysis.md) - [Share](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%205%20+%206:%20Share%20+%20Act.md) - [Act](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%205%20+%206:%20Share%20+%20Act.md) -**
 
-## Guiding questions:
+## Guiding questions
 **What is the problem you are trying to solve?**
  - Understand user trends within the field of smart devices to provide advice towards further marketing efforts for one or more Bellabeat products.
  - Select **[Bellabeat Spring]**.  How can current trends in smart device usage inform our business strategy for **[Bellabeat Spring]**?  In so discovering, we can tailor our marketing strategy for this product to better match with our desired consumers needs and to reach out to unreached consumers who would partake in the product.
