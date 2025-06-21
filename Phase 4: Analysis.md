@@ -118,3 +118,6 @@ From the Ad Click Success/Failure Dataset
   - Users in the 55-65 age rang* mostly spend their time on social media.  Their highest click through rate is when consuming news content.
   - Users in the ' ' ' ' ' age range mostly spend their browsing time on desktop devices, and have the highest click through rate there as well.
 
+<br/>
+
+[NEXT STAGE (SHARE)](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%205%3A%20Share.md)
