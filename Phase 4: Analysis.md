@@ -120,4 +120,4 @@ From the Ad Click Success/Failure Dataset
 
 <br/>
 
-[NEXT STAGE (SHARE)](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%205%3A%20Share.md)
+[NEXT STAGE (SHARE)](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%205%20+%206:%20Share%20+%20Act.md)
