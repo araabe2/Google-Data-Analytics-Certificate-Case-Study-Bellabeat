@@ -82,7 +82,7 @@
 
 <br/><br/>
 
-## Other Possible/Related Resources:
+## Other Possible/Related Resources
 - Suggested market trends within the hydration bottle market: https://www.marketresearchforecast.com/reports/hydration-bottle-market-7431#summary
 - Exercise hours (only has examples of data, not the data itself): https://pmc.ncbi.nlm.nih.gov/articles/PMC10192159/
 - Age-based advertisement platform consumption (Could influence where we show ads): 
