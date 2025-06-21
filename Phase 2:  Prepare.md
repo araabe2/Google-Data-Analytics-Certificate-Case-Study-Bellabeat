@@ -1,4 +1,4 @@
-## PREPARE
+# PREPARE
 **Purpose:** Figure out what information is needed to answer the question, how to get it, and acquire it \
 **Deliverable:** A description of all data sources used
 
