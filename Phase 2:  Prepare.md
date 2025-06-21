@@ -4,8 +4,8 @@
 
 **- [Ask](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%201%3A%20Ask.md) - [Prepare](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%202%3A%20%20Prepare.md) - [Process](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%203%3A%20Process.md) - [Analyze](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%204:%20Analysis.md) - [Share](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%205%20+%206:%20Share%20+%20Act.md) - [Act](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%205%20+%206:%20Share%20+%20Act.md) -**
 
-### Dataset Descriptions:
-#### Dataset: FitBit User Data
+## Dataset Descriptions:
+### Dataset: FitBit User Data
 - https://zenodo.org/records/53894#.YMoUpnVKiP9
 - Description: The data describes user activity of 30 users over two separate 1-month periods.
 - Purpose: Discover and describe trends within user activity habits.
@@ -36,7 +36,7 @@
 
 <br/><br/>
 
-#### Dataset: Adoption of Wearable Smart Payment Technology Survey
+### Dataset: Adoption of Wearable Smart Payment Technology Survey
 - [Link](https://figshare.com/articles/dataset/Data_Sheet_1_Exploring_the_smart_wearable_payment_device_adoption_intention_Using_the_symmetrical_and_asymmetrical_analysis_methods_CSV/20963635/1?file=37250668)
 - Description: User-reported results from a survey of 500 Malaysian respondants discussing their comfort levels with adopting smart technology, along with key descriptors of lifestyle.
 - Purpose: Allow further insights into the portion of the market that we are targetting advertisements towards.
@@ -53,7 +53,7 @@
 
 <br/><br/>
 
-#### Dataset: Exercise Habits Survey
+### Dataset: Exercise Habits Survey
 - https://www.kaggle.com/datasets/nithilaa/fitness-analysis
 - Description: Exercise habits of 545 acquaintances
 - Purpose: Identify trends within different habit striations of exercise partakers to consider where to focus market efforts.
@@ -67,7 +67,7 @@
 
 <br/><br/>
 
-#### Dataset: Ad Click Success/Failure Data
+### Dataset: Ad Click Success/Failure Data
 - https://www.kaggle.com/datasets/marius2303/ad-click-prediction-dataset/data
 - Description: The success of advertisement click through of 4000 users, certain user demographics, and categories such as time of day, advertisement placement, and prior browsing history.
 - Purpose: Identify when is best to advertise to users.
@@ -82,7 +82,7 @@
 
 <br/><br/>
 
-### Other Possible/Related Resources:
+## Other Possible/Related Resources:
 - Suggested market trends within the hydration bottle market: https://www.marketresearchforecast.com/reports/hydration-bottle-market-7431#summary
 - Exercise hours (only has examples of data, not the data itself):https://pmc.ncbi.nlm.nih.gov/articles/PMC10192159/
 - Age-based advertisement platform consumption (Could influence where we show ads): 
