@@ -1,4 +1,4 @@
-## SHARE / ACT
+## SHARE
 **Purpose:** Present findings to decision-makers/stakeholders \
 **Deliverable:** Supporting visualizations and key findings
 
@@ -10,3 +10,8 @@
 <br/>
 
 [NEXT STAGE (SHARE)](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%205%3A%20Share.md)
+
+
+## ACT
+**Purpose:** Implement changes to solve the question
+**Deliverable:** Your top high-level insights based on analysis
