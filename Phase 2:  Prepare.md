@@ -2,6 +2,7 @@
 **Purpose:** Figure out what information is needed to answer the question, how to get it, and acquire it \
 **Deliverable:** A description of all data sources used
 
+**- [Ask](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%201%3A%20Ask.md) - [Prepare](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%202%3A%20%20Prepare.md) - [Process](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%203%3A%20Process.md) - [Analyze](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%204:%20Analysis.md) - [Share](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%205%20+%206:%20Share%20+%20Act.md) - [Act](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%205%20+%206:%20Share%20+%20Act.md) -**
 
 ### Dataset Descriptions:
 #### Dataset: FitBit User Data
