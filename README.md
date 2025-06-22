@@ -21,3 +21,7 @@ Currently, the company primarily focuses their marketing strategies on digital m
 ### The Question
 The marketing analytics team has been asked to focus on a Bellabeat product and analyze smart device usage data in order to gain insight into how people are already using their smart devices. From this information, provide high-level recommendations for how these trends can inform Bellabeat marketing strategy.
 
+
+<br/><br/>
+
+[NEXT STAGE (PREPARE)](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%202%3A%20%20Prepare.md)
