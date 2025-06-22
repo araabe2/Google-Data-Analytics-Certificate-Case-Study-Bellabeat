@@ -24,4 +24,4 @@ The marketing analytics team has been asked to focus on a Bellabeat product and 
 
 <br/><br/>
 
-[NEXT STAGE (PREPARE)](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%202%3A%20%20Prepare.md)
+[NEXT STAGE (ACT)](https://github.com/araabe2/Google-Data-Analytics-Certificate-Case-Study-Bellabeat/blob/main/Phase%201%3A%20Ask.md)
